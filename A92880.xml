@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Selfe afflicter lively described in the whole course of the life of Mr. John Lilburn, sometimes Lieut. Colonel in the army of the Parliament ... / pri[n]ted purposely to vindicate the truth against a [?]ate foolish pamhlet [sic] lately pub[l]ished called an Exact and true narra[t]ion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92880</idno>
+            <idno type="STC">Wing S2447E</idno>
+            <idno type="STC">ESTC R42858</idno>
+            <idno type="EEBO-CITATION">38875854</idno>
+            <idno type="OCLC">ocm 38875854</idno>
+            <idno type="VID">152363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152363)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2294:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Selfe afflicter lively described in the whole course of the life of Mr. John Lilburn, sometimes Lieut. Colonel in the army of the Parliament ... / pri[n]ted purposely to vindicate the truth against a [?]ate foolish pamhlet [sic] lately pub[l]ished called an Exact and true narra[t]ion.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere and VV. Gil[b]e[r]tson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded print, broken and missing type.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152363:1" rendition="simple:additions"/>
+            <p>THE Selfe Afflicter. Lively deſcribed in the whole courſe of the Life of Mr. <hi>John Lilburn,</hi> ſometimes Lieut. Colonel in the Army of the PARLIAMENT.</p>
+            <p>His being Whipped, Gagged, and committed Priſoner to the Fleet by the ſentence of the Biſhops, and the Star-Chamber.</p>
+            <p>His Arraignment for his life by the Expreſſe command of the late King before the houſe of Lords.</p>
+            <p>The arraignment of him for his life at Oxford bein<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taken Priſoner at Brainford.</p>
+            <p>His commitment to the Tower by the Houſe of Lords, and his long impriſonment there.</p>
+            <p>His arraignment before the Commiſſioners at Guild Hall for Treaſon.</p>
+            <p>His baniſhment beyond the Seas. His arraignment af<g ref="char:EOLhyphen"/>terwards at the Seſſions in the Old-Baily, and his confinment againe beyond the Seas. With his natural death at laſt by ſickneſſe.</p>
+            <p>Together, With the Notable Difference betwixt the Levellers and Quakers about the black cloth to be laid over his Coffin when he was <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be interred.</p>
+            <p>Pri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted purpoſely to vindicate the truth againſt a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate Fooliſh Pamhlet lately pub<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhed called an Exact and true Narra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion.</p>
+            <p>Printed for Tho. Vere and VV. Gil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tſon 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:152363:2"/>
+            <pb n="1" facs="tcp:152363:2"/>
+            <head>A True Account of the moſt Memorable Paſſages on the Life and Death of Mr. JOHN LIL<g ref="char:EOLhyphen"/>BURN: ſometimes Lievetenant Col<g ref="char:EOLhyphen"/>onell in the Victorious Army of the PARLIAMENT, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O give you a view of his whole Life, and how much at all times he op<g ref="char:EOLhyphen"/>poſed with al his power this preſent Govern<g ref="char:EOLhyphen"/>ment. is to ſwell that up into a volum, which is meant for a ſingle ſhéet: we ſhall propor<g ref="char:EOLhyphen"/>tion our diſcourſe according to the Emer<g ref="char:EOLhyphen"/>gency of the Advantages, in which we ſhall be carefull, not to be injurious to y<hi rend="sup">e</hi> 
+               <hi>Reader,</hi> nor unprofitable to our ſelves.</p>
+            <p>Some are of Opinion that this man of extraordinary Spirit and underſtanding did not ſo much ſtrike at the preſent Govern<g ref="char:EOLhyphen"/>ment, as at the Enormities which he con<g ref="char:EOLhyphen"/>ceived to be too rank, or gnawing in that Government: Let them think what they pleaſe, we ſhall repreſent unto you the moſt Materiall paſſages that concerned him, And
+<pb n="2" facs="tcp:152363:3"/>that without flattery, or affection, the cauſes whereof are far aſunder from us.</p>
+            <p>
+               <hi>John Lilburn</hi> the famous ſubject of this preſent diſcourſe, was born in the Yeare <hi>1618.</hi> At <hi>Thickley</hi> in the County of <hi>Dur<g ref="char:EOLhyphen"/>ham;</hi> He was Diſcended of Ancient and worſhipfull parentage, and being very yong he was brought up to <hi>London,</hi> and bound an Apprentice to a Packer of Cloth in St. <hi>Swithens Lane:</hi> he was from his Cradle of a high and undanted Spirit, of a quick and pregnant Apprehenſion, of an excellent memory, but al wayes extreamly addicted to contention, a lover of novelties an oppoſer of Government, unſetled in his judgement, and violent and bitter in his ex<g ref="char:EOLhyphen"/>preſſions.</p>
+            <p>About the year <hi>1632.</hi> he diſliking his trade, had a mind to the Law, and became a ſervant to Mr. <hi>William Prin</hi> of <hi>Lincolns-Inne,</hi> who for wrighting ſome Bookes and amongſt others that called <hi>Hiſtrio<g ref="char:EOLhyphen"/>maſtix,</hi> in which the State as the Players were whipped, was impriſſoned with thoſe that vended the Book, and cenſured by the Biſhops.</p>
+            <p>
+               <hi>John Lilburn</hi> did then begin the quarel, and full of his Maſters Cauſe did write a Book againſt the Biſhops, for which he was
+<pb n="3" facs="tcp:152363:3"/>committed priſoner to the <hi>Fleet,</hi> and whip<g ref="char:EOLhyphen"/>ped at a Carts taile from the priſon of the <hi>Fleet,</hi> to <hi>Weſtminſter.</hi>
+            </p>
+            <p>The Indignity whereof ſate ſo heavy up<g ref="char:EOLhyphen"/>on his Spirits, that even when the puniſh<g ref="char:EOLhyphen"/>ment was inflicting on him he ceaſed nort<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ratle againſt his perſecutors, inſomuch that they cauſed him to be gagged.</p>
+            <p>In the year <hi>1640</hi> he was releaſed by the Parliament, and took upon him the place of a Captain in their ſervice, and in the year <hi>1642.</hi> not long after the battle at <hi>Edge Hill</hi> he was taken priſoner at <hi>Brainford,</hi> And carried to <hi>Oxford,</hi> where he was Arraign<g ref="char:EOLhyphen"/>ed not long Afterwards as a Traytor, for levying war againſt the perſon of the King, but his life was never in ſo much jeopardy as when he was arraigned at <hi>Guild-hall</hi> for indeavoring to diſturb the peace and ſubvert the Government of this Nation, eſtabliſhed without a King.</p>
+            <p>Several books to this purpoſe were laid to his charge, as a traytorous and ſcanda<g ref="char:EOLhyphen"/>lous book intituled a <hi>Salva Libertate:</hi> Alſo a trayterous and a ſcandalous book intitu<g ref="char:EOLhyphen"/>led An <hi>Impeachment of High Treaſon againſt Oliver Cromwell, and his Son in Law Henry Ireton Eſquire.</hi> Alſo a ſcanda<g ref="char:EOLhyphen"/>lous
+<pb n="4" facs="tcp:152363:4"/>and a trayterous book intituled, <hi>The <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-cry of the young-men, and the Apren<g ref="char:EOLhyphen"/>tices of London, or an inquiſition after the loſt fundamentall laws and liberties of England, <hi>&amp;c.</hi>
+               </hi> Alſo another ſcandalous and trayterous book intituled <hi>The legall funda<g ref="char:EOLhyphen"/>mentall liberties of the people of England revived.</hi> Alſo another ſcandalous book inti<g ref="char:EOLhyphen"/>tuled, <hi>A <hi>preparation to a hue and cry after ſir Arthur H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſelrigge,</hi>
+               </hi> In which Bookes it was laid to his charge, that he did publiſh that the Government then in preſent was tyrannicall uſurped, And unlawfull, And that the Commons then in Parliament Aſ<g ref="char:EOLhyphen"/>ſembled were not the ſupream Authority of the Nation.</p>
+            <p>He ſtood alſo further indicted, that he as a falſ traitor did maliciouſly plot and contrive to raiſe forces againſt the preſent Govern<g ref="char:EOLhyphen"/>ment for the ſubverſion and Alteration of it, And did alſo maliciouſly indeavor to with-draw certain Souldiers of the Lord <hi>Fai fax</hi> his Army, from their obedience to their ſuperiour offices. It was alſo laid to his h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rge that trayterouſly and contume<g ref="char:EOLhyphen"/>lioueſly he had ſpoken very reproachfull words againſt the Lord Generall, ſir <hi>Tho<g ref="char:EOLhyphen"/>mas Fai fax,</hi> as alſo againſt the high Court
+<pb n="5" facs="tcp:152363:4"/>of Iuſtice.</p>
+            <p>The Indictment held a long time. being read, Mr. <hi>Atturney</hi> did preſent unto the <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>ry</hi> of what Dangerous Conſequence were theſe trayterous books, and how much De<g ref="char:EOLhyphen"/>rogating from the honor of the Parliament And the Counſell of ſtate, And of the chief Captain and Generall of the Army. And o<g ref="char:EOLhyphen"/>ther Officers Included in the Indictment whoſe fame doth ring through the world, Never Army (ſaid Mr. <hi>Atturney</hi>) hath done greater things, &amp; yet they have not eſcaped from being Slandered by Mr. <hi>Lilburns</hi> tongue and pen, And not long after upon conſideration of the evidence and witneſſes he told the <hi>Jury</hi> that if they did reſpect the Government of the Parliament the honor of the Counſell of State, And the honor of the Nation, or of the Army, or the perſecu<g ref="char:EOLhyphen"/>tions of the Laws of the Nation, they could not ſay but the priſoner was guilty of thoſe crimes and treaſons of which he was Accu<g ref="char:EOLhyphen"/>ſed And that they were oblieged according<g ref="char:EOLhyphen"/>ly ſo to find him, And then Addreſſing his ſpéech to Mr. <hi>Keeble,</hi> who was Lord chief Commiſſioner And to the Iudges and Bar<g ref="char:EOLhyphen"/>rons. He declares unto them how the In<g ref="char:EOLhyphen"/>dictment was proved by witneſſe And evi<g ref="char:EOLhyphen"/>dences,
+<pb n="6" facs="tcp:152363:5"/>and that the trayterous book intitu<g ref="char:EOLhyphen"/>led the Legall <hi>fundamentall liberties</hi> was owned by Mr. <hi>Lilburn</hi> himſelf in his Im<g ref="char:EOLhyphen"/>peachment of high Treaſon againſt Liev<g ref="char:EOLhyphen"/>tenant Generall <hi>Cromwell.</hi> And his Son in Law <hi>Commiſſary Jreton,</hi> my Lords ſaid he, you have heard the ſeverall charges wherewith he ſtands accuſed, you have heard a great deal of foul matter and durt, that is fit for nothing but to be caſt upon the ground, and returns to Mr. <hi>Lilburn</hi> again: the priſoner hath caſt thoſe Accu<g ref="char:EOLhyphen"/>ſations and blemiſhes upon others but they return to his own face. Certainly the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> the Army, And all the Officers of it (whoſe fame both as Parli<g ref="char:EOLhyphen"/>ment and Army are known in an extraor<g ref="char:EOLhyphen"/>dinary manner) Are now put in a ballance againſt Mr. Lilburn. And as for the Army and the Officers of it, no man can ſay but that they have béen faithfull and true in their truſt. valiant, couragious, And Suc<g ref="char:EOLhyphen"/>ceſfull to Admiration, even to the Peace and the Happineſſe of this Nation, And God is pleaſed at this inſtant to owne them and bleſſe them in a miraculous man<g ref="char:EOLhyphen"/>ner.</p>
+            <pb n="7" facs="tcp:152363:5"/>
+            <p>This and much more excellently ſpoken by Mr. Atturney, was to lay open to the Lord Iudges, And to the Iury, the crimes of the offender, And the Lord <hi>Keeble,</hi> who was Lord Commiſſioner, having ſuggeſted unto the Iury what their duty was, And the Relligion of an oath did repreſent unto them, that they ſhould conſider the ſtrength of the Accuſation, which did conſiſt in thoſe ſcandalous and trayterous Books, which did conſiſt of three heads.</p>
+            <p>The firſt was to vilifie the Parliament and State, as it was then eſtabliſhed in <hi>England:</hi> the ſecond to take into their con<g ref="char:EOLhyphen"/>ſiderations, his counſells and Invitations therein for the ſtiring up of tumults, wars, And Commotions in the Nation.</p>
+            <p>And the third, was the thing cited in the book to divide the Army, that the other might take effect. Theſe (ſaid he) are the thrée main charges, And theſe the Bookes that do come from him do plainly teſtifie. Then directing his ſpéech to Mr. Lilburn, at y<hi rend="sup">e</hi> bar. In this Act ſaith he, of yours thus declared (if your intentions had taken effect the plot was the greateſt that ever <hi>England</hi> ſaw: For it ſtruck at no leſſe then at the Subvertion of the Common Wealth;
+<pb n="8" facs="tcp:152363:6"/>of this ſtate to have laid &amp; put us al in blood: Your plot was ſuch as never was ſéen in the world before to procéed from a private man as you are, And it muſt néeds ſit heavy upon your conſcience. Therefore (turning again to the Iury) he ſaid you my Maſters of the Iury, look into your conſciences, And ſée what that ſaith unto you. That which the priſoner ſtands too much upon. <hi>Viz.</hi> the witneſſes is made plain and good in Law. I do not know in one particular that there is a ſingle Teſtimony but it is Agravated with many circumſtances therefore let not that trouble you, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou are the proper Iudges of the matter of Fact, being of the Coun<g ref="char:EOLhyphen"/>try, And if you have fully Apprehended the dangerous things plotted in theſe books of Mr. <hi>Lilburn,</hi> you ſhall find that the like creaſon was never hatched in <hi>England,</hi> and ſo in Gods name As the priſoner doth lead to your conſciences, ſo go and do</p>
+            <p>Mr. <hi>Lilburn</hi> in the mean time who had much waſted his Spirits, And had with great earneſtneſſe béen pleading for his life two dayes before at the Barre, did omit nothing to inſinuate into the Iury an Ap<g ref="char:EOLhyphen"/>prehenſion of his innocency, He proteſted that he never owned nor ſigned any Booke
+<pb n="9" facs="tcp:152363:6"/>that was proved againſt him<g ref="char:punc">▪</g> he diclaimed every Litle of them. He certified y<hi rend="sup">e</hi> Bench that no book in the eye of the Law could be accounted his, unleſſe it were Legally proved or voluntary confeſſed to be his by himſelf.</p>
+            <p>To prove this he Alleaged by ſeverall<g ref="char:punc">▪</g> Statutes, that it ſhould be by two witneſſ<g ref="char:EOLhyphen"/>es which he ſaid they failed in, although Mr. <hi>Atturney.</hi> And the Lord <hi>Keeble</hi> did indea<g ref="char:EOLhyphen"/>vor to give the Iury all poſſible ſatisfacti<g ref="char:EOLhyphen"/>on therein.</p>
+            <p>He much inſiſted to have Counſell to plead his Caſe in Law, which would not then be granted, Although he urged Exam<g ref="char:EOLhyphen"/>ples as he ſaid both by Law and preſident, which made him ſometimes to uſe exclai<g ref="char:EOLhyphen"/>mations more violent then became the con<g ref="char:EOLhyphen"/>dition of a priſoner.</p>
+            <p>He repreſented what a ſerviceable In<g ref="char:EOLhyphen"/>ſtrument he had béen in the common cauſe of the Nation in which to the hazard of his life one handred times over be had ingaged for them with his ſword in his hand, with as much reſolution and faithfulneſſe as ever man on earth ſerved a Generation of men, having never betrayed his truſt, nor ever given any Suſpition in the leaſt that be
+<pb n="10" facs="tcp:152363:7"/>would, nor ever ſo much as ſtagered in his principles, nor never ſo much as diſputed any Commands though never ſo deſperate that were laid upon him.</p>
+            <p>Addreſſing himſelf to the Iury, he ſaid unto them, you Gentlemen of the Iury, my ſole Iudges, the Kéepers of my life, At whoſe hands the Lord will require my blood in caſe you leave any part of my In<g ref="char:EOLhyphen"/>dictment to theſe — I deſire you to know your power, And conſider your duty both to God, and me, to your ow<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelves; And to your Country, And the gracious Aſſiſting ſpirit, And the preſence of the Lord God, Omnipotent, the Governor of Heaven and Earth, And all things there<g ref="char:EOLhyphen"/>in contained, go along with you guide, coun<g ref="char:EOLhyphen"/>ſell you, and direct you to that which is juſt And for his glory.</p>
+            <p>The Iury having withdrawn them<g ref="char:EOLhyphen"/>ſelves, And conſulted about the priſoner and his offences, for the ſpace of thrée quarters of an hour, Did come into the Court again, And did bring in their ver<g ref="char:EOLhyphen"/>dict of him as not Guilty, At which the multitude that Attended in the Hall, to obſerve the event, did make ſo loud an accla<g ref="char:EOLhyphen"/>mation for almoſt half an hour together,
+<pb n="11" facs="tcp:152363:7"/>that the like was ſeldome heard. Mr. Lil<g ref="char:EOLhyphen"/>burn being that Night conveyed to the Tower, where at that time he had béen priſoner for the ſpace of ſeven months, was about a fortnight afterwards releaſed from thence by the order of the Counſell of ſtate.</p>
+            <p>Being now at liberty he was much in<g ref="char:EOLhyphen"/>clined to the ſtudy of the Law, which in his hardeſt diſtreſſe he found ſo ſucceſſeful unto him.</p>
+            <p>But it was not long before he again fell under the diſpleaſure of the Parliment, whereupon he was by an Act Fined, ban<g ref="char:EOLhyphen"/>iſhed the Common wealth of England, And if ever he returned again he was to die as a Traytor.</p>
+            <p>In obedience hereunto he want over in<g ref="char:EOLhyphen"/>to the Netherlands, And it was laid to his charge that there he came Acquainted with the Duke of Buckingham, the Lord Hopten, Captain Titus, Mr. Bartlet and others, &amp; y<hi rend="sup">t</hi> for y<hi rend="sup">e</hi> ſum of ten thouſand pound he offered to ſetle the Government of this
+<pb n="12" facs="tcp:152363:8"/>Nation in the ſame ſtate as it was before the wars began, which whether true or falſe I will not take upon me to diſpute: But howſoever it was, he had a great mind to return unto his Native Country, inſomuch that without any leave he returned againe into <hi>England,</hi> And thereupon being Appre<g ref="char:EOLhyphen"/>hended and brought to <hi>Newgate,</hi> he was tri<g ref="char:EOLhyphen"/>ed for his life at the Seſſions houſe in the <hi>Old Bayly,</hi> on <hi>Saturday</hi> the <hi>20.</hi> of <hi>Auguſt,</hi> in the year <hi>1653,</hi> where he found ſuch fa<g ref="char:EOLhyphen"/>vor, that the Iury did again Acquit him.</p>
+            <p>Nor long afterwards he was conducted by a Troop of horſe to <hi>Portſmouth,</hi> being once more bound for beyond y<hi rend="sup">e</hi> Seas, where making uſe of all his friends, and putting in ſecurity for the peaceableneſſe of his future deportment. he Landed at <hi>Dover.</hi> And fall<g ref="char:EOLhyphen"/>ing at firſt into the Acquaintance of that Generation of men called <hi>Quakers,</hi> he was to taken with their H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at of Zeale and their hatred of the world, y<hi rend="sup">•</hi> he never afterwards Abandoned them but preaching after their Garbe and methode, Sometimes on the Lords day at <hi>Eltham,</hi> And ſometimes at <hi>Woolidge</hi> he ſurrendred his prepared ſoul to him that gave it him.</p>
+            <p>One thing I cannot well omit that hap<g ref="char:EOLhyphen"/>ned
+<pb n="13" facs="tcp:152363:8"/>at his Buriall, which is that his wife, or ſome Levellers of his old Acquain<g ref="char:EOLhyphen"/>tance (as others ſay) had brought a Black Cloth to cover his hearſe, the Quakers would by no means admit of it, Alledging that the leſſe there was of pomp, there was the more of piety. And thus thorow many Contentions and variety of opinions, he at l ſt wrangled himſelf into the grave, dying on <hi>Saturday</hi> the <hi>29.</hi> of <hi>Auguſt, 1657.</hi> And was buried the <hi>Monday,</hi> following in the new Church yard néer <hi>Bedlam.</hi>
+            </p>
+            <div type="epitaph">
+               <head>An Epitaph on Mr. JOHN LILBVRN,</head>
+               <l>HE in his life who nere did ceaſe,</l>
+               <l>To beat down Government &amp; <hi>peace</hi>
+               </l>
+               <l>who his own ſword abhord to ſe</l>
+               <l>The Iron with the Steele agree,</l>
+               <l>And ſcornd the pen that did not drink</l>
+               <l>Far more of Copres then of Ink.</l>
+               <l>The ſcourge of <hi>peace,</hi> the ſoule of <hi>Jars,</hi>
+               </l>
+               <l>The hur-burly of the Stars,</l>
+               <pb n="14" facs="tcp:152363:9"/>
+               <l>Whom neither creatures force nor fame,</l>
+               <l>Nor Love, nor fear alive could tame,</l>
+               <l>But Orders would and Laws foreſtall,</l>
+               <l>And level Church, and ſtate, and all,</l>
+               <l>Lyes now to have one Duſt expreſt,</l>
+               <l>What wonders Death can do at reſt.</l>
+            </div>
+            <div type="epitaph">
+               <head>Another Epitaph on John Lilburn,</head>
+               <l>Here's John Lilburn in good time deceaſt</l>
+               <l>After much wrangling now he's gone to reſt.</l>
+               <l>If Factious Spirits ſtil much coyl do keep.</l>
+               <l>Pray blame not him. he's fairly laid aſleep</l>
+               <l>whether i'th right or wrong he hath thus left us.</l>
+               <l>ſtout death of this ſtout champion hath bereft us</l>
+               <l>Who liking not the furious noiſe he made,</l>
+               <l>Threw duſt upon him. ſo the ſtorm was laid.</l>
+            </div>
+            <div type="epitaph">
+               <head>Upon the late untimely death of <hi>JOHN LILBURN:</hi>
+               </head>
+               <l>Untimely cauſe ſo late. and late becauſe,</l>
+               <l>To ſave much. miſchief: it no ſooner was,</l>
+               <l>Is John departed? and is Lilburn gone?</l>
+               <l>Farewel to both, to Lilburn and to John,</l>
+               <l>Yet being dead. take this advice from me</l>
+               <l>Let them not both in one grave buried be,</l>
+               <l>But lay John here. lay Lilburn hereabout.</l>
+               <l>For if they ever meet they wil fal out.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152363:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
